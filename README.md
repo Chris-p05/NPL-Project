@@ -1,2 +1,2 @@
-# NPL-Project
-Final Project for Natural Processing Language.
+# NLP-Project
+Final Project for Natural Language Processing.
